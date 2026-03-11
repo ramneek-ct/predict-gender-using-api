@@ -14,7 +14,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> Guess Gender from Name </title>
+        <title> Guess Gender </title>
         <style>
             p span{
                 font-weight: bold;
@@ -40,4 +40,5 @@
         } ?>
     </body>
 </html>
+
 
